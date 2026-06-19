@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Możliwe przejaśnienia",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ZhyS7Cjg20K_zdg1QfKjIw",
+  "Reference": "dI_i0ZCHLUyjCFycUa4XJw/ZhyS7Cjg20K_zdg1QfKjIw",
+  "ParentRef": "dI_i0ZCHLUyjCFycUa4XJw/JlXTQCIM_kW4OhtQTwS6EA",
+  "Created": "2026-06-18T06:03:15.4067652Z",
+  "Updated": "2026-06-18T06:03:15.4067652Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

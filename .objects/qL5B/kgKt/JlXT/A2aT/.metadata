@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Szukaj w Google",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "A2aTFzAxNEmS8s566eNfRQ",
+  "Reference": "dI_i0ZCHLUyjCFycUa4XJw/A2aTFzAxNEmS8s566eNfRQ",
+  "ParentRef": "dI_i0ZCHLUyjCFycUa4XJw/JlXTQCIM_kW4OhtQTwS6EA",
+  "Created": "2026-06-16T13:23:46.2336798Z",
+  "Updated": "2026-06-16T13:23:46.2336798Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
